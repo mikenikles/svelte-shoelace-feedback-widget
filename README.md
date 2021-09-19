@@ -1,0 +1,1 @@
+# svelte-shoelace-feedback-widget
